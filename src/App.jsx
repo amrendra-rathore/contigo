@@ -1,5 +1,5 @@
 import React from 'react';
-import TextField from './components/TextField/index'
+import TextField from './components/index'
 
 function App() {
   return (

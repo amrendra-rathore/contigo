@@ -71,3 +71,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # contigo
 # React Frontend Developers Training Assignments
+
+Create a new repository on the command line
+
+echo "# contigo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/amrendra-rathore/contigo.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/amrendra-rathore/contigo.git
+git branch -M main
+git push -u origin main
