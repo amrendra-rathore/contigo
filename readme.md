@@ -40,4 +40,8 @@ Updates :
 2. Removed all unwanted files i.e. App.css, logo.svg, index.css
 3. Removed irrelevant code from index.js and App.js, and from render method of “App.js”
 4. Renamed the file App.js to App.jsx, index.js to index.jsx and App.test.js to App.test.jsx.
-5. 
+5. Was able to setup editorconfig + husky + eslint  - Had issues installing commitzen - Had Issues CREATING HOOKS.
+6. Serviceworker.js does not exists anymore after October 2020 update.
+7. All linting errors are fixed : Warning exists.
+8. Tree structure replicated.
+9. 
