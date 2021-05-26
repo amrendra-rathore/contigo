@@ -1,11 +1,11 @@
 import React from 'react';
 import TextField from './components/index';
-import ControlledCarousel from './components/carousel'
+import Slider from './components/carousel';
 
 function App() {
   return (
     <div className="App">
-      <ControlledCarousel />
+      <Slider />
       <TextField />
     </div>
   );
